@@ -1,0 +1,2 @@
+https://www.kaggle.com/c/competitive-data-science-predict-future-sales
+https://www.kaggle.com/jagangupta/time-series-basics-exploring-traditional-ts
